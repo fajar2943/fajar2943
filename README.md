@@ -7,10 +7,12 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
 </p>
 
 ## Our Play Ground
-- React
-- Java
+- PHP
 - Laravel
 - CodeIgniter
+- Bootsrap
+- JQuery
+- Python
 
 ### Stats:
 <details>
