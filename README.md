@@ -40,3 +40,5 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
 <br>
 Dukung juga di : <a href="https://saweria.co/gumilangcode" target="_blank"></a>
 <img src="https://raw.githubusercontent.com/fajar2943/fajar2943/main/trakteer.svg">
+
+<iframe src="https://saweria.co/widgets/qr?streamKey=480a36ce1e45e21fe2bc134d0cf56ab5"></iframe>
