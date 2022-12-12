@@ -38,7 +38,4 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
 ### Beri Dukungan!
 <a href="https://trakteer.id/gumilangcode" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
 <br>
-Dukung juga di : <a href="https://saweria.co/gumilangcode" target="_blank"></a>
-<img src="https://raw.githubusercontent.com/fajar2943/fajar2943/main/trakteer.svg?sanitize=true">
-
-<iframe src="https://saweria.co/widgets/qr?streamKey=480a36ce1e45e21fe2bc134d0cf56ab5"></iframe>
+Dukung juga di : <a href="https://saweria.co/gumilangcode" target="_blank">https://saweria.co/gumilangcode</a>
