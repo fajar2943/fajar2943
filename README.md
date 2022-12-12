@@ -34,3 +34,5 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
 ### Let's connect!
 - Email: fajar2943@gmail.com
 - Instagram: https://instagram.com/fajarlintang5
+
+<script type='text/javascript' src='https://cdn.trakteer.id/js/embed/trbtn.min.js'></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Dukung Saya di Trakteer','#be1e2d','https://trakteer.id/gumilangcode','https://cdn.trakteer.id/images/embed/trbtn-icon.png','40');trbtn.draw(trbtnId);})();</script>
