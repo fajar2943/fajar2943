@@ -17,8 +17,7 @@ Currently I am open to all opportunities, especially in the IT field as a Web De
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on ... </br>
-    - 🌱 I’m currently learning Laravel Liveware and ReactNative </br>
+    - 🔭 I’m currently working on Betterpay </br>
     - 👯 I’m looking to collaborate on ... </br>
     - 🤔 I’m looking for help with ... </br>
     - 💬 Ask me about anything.</br>
